@@ -1,5 +1,0 @@
-﻿  projections.c
-C:\Users\William\OneDrive\Desktop\College Work\CPTS 121\Lab3Task2\Lab3Task2\projections.c(5): warning C4716: 'display_task': must return a value
-C:\Users\William\OneDrive\Desktop\College Work\CPTS 121\Lab3Task2\Lab3Task2\projections.c(33): warning C4716: 'display_time': must return a value
-C:\Users\William\OneDrive\Desktop\College Work\CPTS 121\Lab3Task2\Lab3Task2\projections.c(36): warning C4716: 'display_height': must return a value
-  Lab3Task2.vcxproj -> C:\Users\William\OneDrive\Desktop\College Work\CPTS 121\Lab3Task2\x64\Debug\Lab3Task2.exe
